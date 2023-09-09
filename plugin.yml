@@ -1,0 +1,20 @@
+---
+name: MoneyAPI
+version: 0.0.2
+main: lucasxdavii\MoneyAPI\Main
+api: 5.0.0
+src-namespace-prefix: lucasxdavii\MoneyAPI
+author: LucaSxDavii
+commands:
+  money:
+    description: Ver ou definir a quantidade de dinheiro
+    usage: /money [quantidade]
+    permission: moneyapi.use
+permissions:
+  moneyapi.use:
+    description: Permite usar o comando /money
+    default: true
+  moneyapi.admin:
+    description: Permite usar o comando /money para alterar o dinheiro de outros jogadores
+    default: op
+...
