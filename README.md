@@ -1,6 +1,6 @@
 # MoneyAPI
 
-![Logo MoneyAPI](moneyapi-logo.png)
+![Logo MoneyAPI](moneyapi-logo.jpg)
 
 A MoneyAPI é um plugin flexível e fácil de usar para gerenciar o dinheiro dos jogadores em seu servidor Minecraft Pocket Edition. Ele permite que os jogadores verifiquem seu saldo, transfiram dinheiro para outros e muito mais.
 
